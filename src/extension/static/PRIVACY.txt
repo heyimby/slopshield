@@ -1,0 +1,4 @@
+SlopShield stores your switches and domain list in this browser. On DuckDuckGo and Qwant the add-on is allowed to load across the site, because those results live on the homepage address. It changes a page only when that page is a web results page.
+
+It hides recognized AI answer panels and results from domains you added on Google, Bing, DuckDuckGo, Yahoo, Brave, Ecosia, Startpage, Yandex, Baidu, AOL, Qwant, Kagi, You.com, and Mojeek. It does not upload searches, addresses, page contents, or screenshots. Copy diagnostics, in the popup, includes the extension version, browser version, your switches, a hidden-item count, and any note you typed. It does not include queries or URLs.
+

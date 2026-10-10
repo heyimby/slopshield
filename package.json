@@ -1,0 +1,17 @@
+{
+  "name": "slopshield",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Hide AI answer panels and unwanted sites on major search engines.",
+  "scripts": {
+    "test": "node --experimental-strip-types --test src/lib/slopshield/engine.test.ts",
+    "build": "node scripts/build-extension.mjs"
+  },
+  "devDependencies": {
+    "vite": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

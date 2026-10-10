@@ -1,0 +1,16 @@
+SlopShield 0.2.0
+
+Chrome
+1. Unzip this folder.
+2. Open chrome://extensions
+3. Turn on Developer mode.
+4. Click Load unpacked and choose the slopshield folder.
+
+Firefox
+1. Unzip this folder.
+2. Open about:debugging#/runtime/this-firefox
+3. Click Load Temporary Add-on.
+4. Choose manifest.json inside the slopshield folder.
+Temporary add-ons unload when Firefox restarts.
+
+It runs on web results from Google, Bing, DuckDuckGo, Yahoo, Brave, Ecosia, Startpage, Yandex, Baidu, AOL, Qwant, Kagi, You.com, and Mojeek. It hides recognized AI answer panels and domains you add. Maps, images, news, and unrecognized layouts stay visible. Restore or pause from the toolbar popup. Settings stay on this device.
